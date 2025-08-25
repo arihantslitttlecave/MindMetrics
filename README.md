@@ -54,3 +54,21 @@ python -m http.server 8080
 Then visit 👉 `http://localhost:8080`
 
 ---
+
+
+
+
+---
+
+## 🖼️ Screenshots
+
+Here are some previews of **MindMetrics** in action:
+
+### 🎮 Game UI
+
+
+### 🧠 Gameplay Banners for the event
+
+
+---
+
