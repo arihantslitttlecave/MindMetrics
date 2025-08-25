@@ -1,12 +1,12 @@
 ````markdown
-# 🧠 MindMetrics — Memory Game
+🧠 MindMetrics — Memory Game
 
 MindMetrics is a browser-based memory game where you test how sharp your recall is.  
 The frontend is built with **HTML, CSS, and JavaScript**, while the backend is a **Flask server** that saves results into an Excel file (`game_data.xlsx`) using **pandas**.
 
 ---
 
-## 🚀 Features
+🚀 Features
 - Memory sequence gameplay 🎮  
 - Neon-style UI  
 - Results saved into Excel (`game_data.xlsx`)  
@@ -14,7 +14,7 @@ The frontend is built with **HTML, CSS, and JavaScript**, while the backend is a
 
 ---
 
-## 📦 Requirements
+📦 Requirements
 Install Python 3.8+ and run:
 ```bash
 pip install flask flask-cors pandas openpyxl
