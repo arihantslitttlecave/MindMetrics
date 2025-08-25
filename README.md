@@ -60,17 +60,14 @@ Then visit 👉 `http://localhost:8080`
 
 ---
 
-## 🖼️ Screenshots
-
-Here are some previews of **MindMetrics** in action:
-
-### 🎮 Game UI
+---
+## ​ Screenshots
 
 
-### 🧠 Gameplay Banners for the event
-main.png
-right.png
-left.png
+ - Gameplay Preview
+![Main Slide](images/main.png)
+![Right Slide](images/right.png)  
+![Left Slide](images/left.png)
 
 ---
 
