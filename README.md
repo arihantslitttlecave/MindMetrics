@@ -68,7 +68,9 @@ Here are some previews of **MindMetrics** in action:
 
 
 ### 🧠 Gameplay Banners for the event
-
+main.png
+right.png
+left.png
 
 ---
 
